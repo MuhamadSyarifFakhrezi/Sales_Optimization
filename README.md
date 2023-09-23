@@ -1,2 +1,2 @@
 # Sales_Optimization
-data mentah berformat csv. Pembersihan data, pemprosesan data, manipulasi data dan exploratry data analysis menggunakan SQL. 
+Raw data in CSV format.  Data cleaning, data processing, data manipulation and exploratory data analysis using SQL. Data visualization using Tableau
