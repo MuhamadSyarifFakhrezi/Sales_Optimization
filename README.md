@@ -1,8 +1,6 @@
 # Sales Optimization
 ## Business Understanding
-Store was open in 2009 and is located in Poland. The shop area is 120m2.
-We offer general food-and basic chemistry, hygienic articles.
-We have fresh bread from 4 different bakers,sweets, local vegetables, dairy, basic meat(ham,sausages), newspaper, home chemistry, etc.
+The store was opened in 2009 and is located in Poland. The store area is 120m2. Offers general food and basic chemical, hygienic articles. Has fresh bread from 4 different bakers, sweets, local vegetables, dairy, basic meat (ham, sausages), newspaper, home chemistry, etc.
 
 The main problems faced by the owners are:
 • Overhaul of the owners - the store employs 4 employees, but the owners' great involvement in the current operation of the store means that they are unable to assess the situation and take actions to adapt the business profile to market changes
