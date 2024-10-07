@@ -12,6 +12,7 @@ The main problems faced by the owners are:
 The collected dataset come from the multi-branch store computer system. The data shows stocking, sales, sales statistics, characteristics of products sold from January 2018 - December 2018. We use the 'sell_1' table to analyze the 2018 sales history. Table ‘sell_1’ is sales data from January 2018 to December 2018 contained of 16 columns and 23180 rows.
 
 Here is data source link: [Data Source](https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-data-of-grocery-shop?select=SELL_1.csv)
+
 Or can be downloaded here: [Dataset](https://github.com/MuhamadSyarifFakhrezi/Sales_Optimization/blob/main/TOTAL%20SALE%202018%20Yearly%20data%20of%20grocery%20shop..zip)
 
 ## Tools
