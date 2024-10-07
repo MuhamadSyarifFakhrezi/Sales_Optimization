@@ -27,6 +27,8 @@ MySQL (Data Wrangling), Tableau (Data Visualization)
   
 The above data processing steps are only an overview, please refer to the following article for details: [Article](https://medium.com/@ms.fakhrezi/data-analysis-sales-optimization-f094853243bb)
 
+The source code can be accessed here: [Source Code](https://github.com/MuhamadSyarifFakhrezi/Sales_Optimization/blob/main/data_processing.sql)
+
 ## Visualization
 The visualization was created using Tableau and included multiple metrics such as sales, profit, revenue, profitable and loss-making products.
 
